@@ -39,3 +39,12 @@ Project Overview:<br>
 
 ![image](https://user-images.githubusercontent.com/72664379/194483530-8a8685be-3126-4fc5-9739-c4bac531cce3.png)
 <br>Frequency of each category of the signal strength(target class) in the dataset.
+<br><br>
+  ![image](https://user-images.githubusercontent.com/72664379/194501870-edd9e1e6-e56a-4956-be4f-1a1703db09a0.png)
+<br>Graph showing the plot of Training & Validation accuracy of the neural network model created.
+  <br><br>
+  ![image](https://user-images.githubusercontent.com/72664379/194502313-18f57c7c-5158-4192-8cf1-b0d9a7438945.png)
+<br>Graph showing the plot of Training & Validation loss of the neural network model created.
+  <br><br>
+  
+  
