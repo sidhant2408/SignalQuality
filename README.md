@@ -27,6 +27,15 @@ Project Overview:<br>
       <li>Plotting Training & Validation accuracy graph</li>
       <li>Plotting Training & Validation loss graph</li>
       <li>Classification report</li>
-      
    </ul>
   </li>
+<br>
+
+![image](https://user-images.githubusercontent.com/72664379/194483126-3b79a1d8-2d4a-4b74-8553-c6d7fd7e93a8.png)
+<br>Distribution of the signal strength(target class).
+<br>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/72664379/194483530-8a8685be-3126-4fc5-9739-c4bac531cce3.png)
+<br>Frequency of each category of the signal strength(target class) in the dataset.
