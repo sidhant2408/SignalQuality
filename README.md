@@ -71,7 +71,7 @@ Project Overview:<br>
   </ul>
   </li>
   <li>Hence, improvisation is seen in the scores.</li>
-  <li>A proper dataset could be used for better results and predictions.</li>
+  <li>A better dataset could be used for better results and predictions.</li>
 </ul>
   
   
