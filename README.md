@@ -39,14 +39,40 @@ Project Overview:<br>
 <br>Frequency of each category of the signal strength(target class) in the dataset.
 <br><br>
 
-  ![image](https://user-images.githubusercontent.com/72664379/194501870-edd9e1e6-e56a-4956-be4f-1a1703db09a0.png)
+  ![image](https://user-images.githubusercontent.com/72664379/194741968-c29b1729-ca35-4721-a504-8409861ec74b.png)
 <br>Graph showing the plot of Training & Validation accuracy of the neural network model created.
   <br><br>
   
-  ![image](https://user-images.githubusercontent.com/72664379/194502313-18f57c7c-5158-4192-8cf1-b0d9a7438945.png)
+  ![image](https://user-images.githubusercontent.com/72664379/194741982-3230875c-da49-4244-b547-742b3556c08b.png)
 <br>Graph showing the plot of Training & Validation loss of the neural network model created.
   <br><br>
   
+  ![image](https://user-images.githubusercontent.com/72664379/194742041-a89da275-6485-487a-a182-d17c6f6ecd62.png)
+<br>Graph showing the plot of Training & Validation accuracy of the updated neural network model.
+  <br><br>
+
+![image](https://user-images.githubusercontent.com/72664379/194742069-70146fa1-27a9-4aeb-b18d-11fd356d6f60.png)
+<br>Graph showing the plot of Training & Validation loss of the updated neural network model.
+  <br><br>
+
+<h3>Conclusions:</h3>
+<ul>
+  <li>Model 1:
+  <ul>
+    <li>Accuracy score: ~60%</li>
+    <li>Loss score: ~93%</li>
+  </ul>
+  </li>
+  
+  <li>Model 2(updated model):
+  <ul>
+    <li>Accuracy score: ~74%</li>
+    <li>Loss score: ~69%</li>
+  </ul>
+  </li>
+  <li>Hence, improvisation is seen in the scores.</li>
+  <li>A proper dataset could be used for better results and predictions.</li>
+</ul>
   
   
   
